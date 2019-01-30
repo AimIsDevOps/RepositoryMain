@@ -8,3 +8,9 @@
 01/30/2019  09:11 AM                 0 Test1.txt
                1 File(s)              0 bytes
                2 Dir(s)  113,603,973,120 bytes free
+		
+		
+		
+		
+		New Prject of GIT
+		Should go in te Repository
